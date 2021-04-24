@@ -9,7 +9,7 @@ testing testing 123
 
 Welcome to my respository for the NW FinTech Bootcamp 
 
-*This text will be in italics 
+*This text will be in italics* 
 
 **This text will be in bold**
 =======
